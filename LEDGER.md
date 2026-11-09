@@ -14,6 +14,8 @@ The founding work on Neki moves here from TOPC's ledger first, so later rows are
 | 4 | 2026-10-16 | Kamal Khatwani (via Claude) | Work (99%) on #7: Record the backer claim in NEKI.md: public backers of the pot, money never buys Neki | 792 | provisional | https://github.com/kamal0808/topc/pull/27 |
 | 5 | 2026-10-25 | Kamal Khatwani | Idea (1%) for #14: Record server pricing and object-to-approve rules in NEKI.md | 8 | provisional | https://github.com/kamal0808/topc/pull/45 |
 | 6 | 2026-10-25 | Kamal Khatwani | Work (99%) on #14: Record server pricing and object-to-approve rules in NEKI.md | 792 | provisional | https://github.com/kamal0808/topc/pull/45 |
+| 7 | 2026-11-09 | Kamal Khatwani | Idea (1%) for #16: Can a many-person barter network run on Neki? | 27 | provisional | https://github.com/kamal0808/topc/pull/64 |
+| 8 | 2026-11-09 | Kamal Khatwani | Work (99%) on #16: Can a many-person barter network run on Neki? | 2,673 | provisional | https://github.com/kamal0808/topc/pull/64 |
 
 ## Row 1 breakdown (rate card v2, 2026-10-10)
 
